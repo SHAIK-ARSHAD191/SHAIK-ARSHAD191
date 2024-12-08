@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hi, I’m Arshad
+🌱 I’m currently learning Frontend.
+✨ Let's Connect!
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out via LinkedIn or email me at arshadshaik32145@gmail.com.
+
+🛠 Skills
+Languages: JavaScript, HTML, CSS
+Frontend: React.js, Tailwind CSS, Next.js
+Tools: Git, VS Code
 
 <!--
 **SHAIK-ARSHAD191/SHAIK-ARSHAD191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
