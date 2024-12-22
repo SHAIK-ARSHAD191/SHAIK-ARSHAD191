@@ -9,7 +9,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 🛠 Skills
 <br>
-Languages: JavaScript, HTML, CSS
+Languages: JavaScript, HTML, CSS,PYTHON
 <br>
 Frontend: React.js, Tailwind CSS, Next.js
 <br>
